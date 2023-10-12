@@ -1,5 +1,5 @@
+## [PRESENTATION PPT](https://docs.google.com/presentation/d/1f3m-9Ssj3wlc6B5ywACb16q4qor5Gs7O/edit?usp=drive_link&ouid=116669777116112820978&rtpof=true&sd=true)
 # Projet GatherGrid
-
 ## Configuration et Technologies Utilisées
 
 Ce projet a été développé en utilisant IntelliJ IDEA, en plus des technologies clés suivantes :
